@@ -4,5 +4,4 @@ My first repository.
 **Favorite Movie**
 - The Godfather
 - Mystic River
-- Breaking Bad 
-
+- Breaking Bad Series
